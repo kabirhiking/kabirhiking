@@ -3,7 +3,7 @@
 </div>
 I'm a competitive programmer and backend developer in addition to my academic interests. I enjoy taking on new tasks and learning about the complexities of software development.
 
-## Now i learning "GO"
+## Now i am learning "GO"
 
 ## Stay Connected
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/kabir-hiking/)](https://www.linkedin.com/in/kabir-hiking/)
