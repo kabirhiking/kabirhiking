@@ -1,7 +1,9 @@
+![687474~1](https://github.com/user-attachments/assets/ddb70ed5-1991-45d8-a4f4-f7adcf28abbc)
 <div align="center">
   <h1>Hi there! I'm Raihan Kabir 👋</h1>
 </div>
 I'm a competitive programmer and backend developer in addition to my academic interests. I enjoy taking on new tasks and learning about the complexities of software development.
+
 
 ## Now i am learning "GO"
 
