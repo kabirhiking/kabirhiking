@@ -1,6 +1,7 @@
-<div align="center">
-   <h1> ![687474~1](https://github.com/user-attachments/assets/ddb70ed5-1991-45d8-a4f4-f7adcf28abbc) </h1>
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ddb70ed5-1991-45d8-a4f4-f7adcf28abbc" alt="Centered Image" width="300"/>
+</p>
+
 
 <div align="center">
   <h1>Hi there! I'm Raihan Kabir 👋</h1>
