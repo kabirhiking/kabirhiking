@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/ddb70ed5-1991-45d8-a4f4-f7adcf28abbc" alt="Centered Image" width="600" height="380"/>
-</p>
+</p> -->
 
 
 
