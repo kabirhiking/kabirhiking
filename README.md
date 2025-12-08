@@ -62,31 +62,31 @@ I'm a passionate **competitive programmer** and **backend developer** who loves 
 
 ### 💼 Featured Projects
 
-#### 🛒 [Full Stack E-Commerce Platform](https://github.com/kabir-hiking)
+#### 🛒 [Full Stack E-Commerce Platform](https://github.com/kabirhiking)
 - Built with **React** frontend and **FastAPI** backend
 - Implemented **JWT authentication** and role-based permissions
 - Features product dashboards, order management, and analytics
 - **Tech:** React, FastAPI, PostgreSQL, Docker
 
-#### 📱 [RenewTech – Device Refurbishing System](https://github.com/kabir-hiking)
+#### 📱 [RenewTech – Device Refurbishing System](https://github.com/kabirhiking)
 - Web-based management system using **Django MVT** and **MySQL**
 - Designed optimized CRUD workflows for device inventory
 - Enhanced backend query performance
 - **Tech:** Django, MySQL, Bootstrap
 
-#### 💰 [Personal Finance Tracker](https://github.com/kabir-hiking)
+#### 💰 [Personal Finance Tracker](https://github.com/kabirhiking)
 - Modular REST APIs with authentication and validation
 - Containerized backend using **Docker**
 - Transaction management and budget tracking
 - **Tech:** FastAPI, Docker, PostgreSQL
 
-#### 🤖 [AI Chat Log Summarizer](https://github.com/kabir-hiking)
+#### 🤖 [AI Chat Log Summarizer](https://github.com/kabirhiking)
 - CLI tool for text summarization using **TF-IDF-based NLP**
 - Automated large-scale text processing
 - Modular architecture for extensibility
 - **Tech:** Python, NLP, TF-IDF
 
-#### 🌐 [Responsive Portfolio Website](https://github.com/kabir-hiking)
+#### 🌐 [Responsive Portfolio Website](https://github.com/kabirhiking)
 - Fully responsive personal portfolio
 - Mobile-first design with smooth animations
 - Clean UI/UX and optimized performance
@@ -97,17 +97,17 @@ I'm a passionate **competitive programmer** and **backend developer** who loves 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kabir-hiking&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabir-hiking&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kabirhiking&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabirhiking&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabir-hiking&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kabir-hiking&theme=redical&hide_border=true&area=true" alt="Contribution Graph" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirhiking&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kabirhiking&theme=redical&hide_border=true&area=true" alt="Contribution Graph" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kabir-hiking&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kabirhiking&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -134,7 +134,7 @@ I'm a passionate **competitive programmer** and **backend developer** who loves 
   <a href="https://www.linkedin.com/in/kabir-hiking/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/kabir-hiking">
+  <a href="https://github.com/kabirhiking">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:kabirraihn249@gmail.com">
@@ -151,7 +151,7 @@ I'm a passionate **competitive programmer** and **backend developer** who loves 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kabir-hiking&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=kabirhiking&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <p align="center">
