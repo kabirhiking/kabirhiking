@@ -1,138 +1,158 @@
-<!-- <p align="center">
-  <img src="https://github.com/user-attachments/assets/ddb70ed5-1991-45d8-a4f4-f7adcf28abbc" alt="Centered Image" width="600" height="380"/>
-</p> -->
-
-
-
 <div align="center">
-  <h1>Hi there! I'm Raihan Kabir 👋</h1>
+  <h1>👋 Hi there! I'm Raihan Kabir</h1>
+  <p><i>Competitive Programmer | Backend Developer | Problem Solver</i></p>
 </div>
-I'm a competitive programmer and backend developer in addition to my academic interests. I enjoy taking on new tasks and learning about the complexities of software development.
 
+---
 
-<!--## Now i am learning "GO", "AI EINGINEERING"
+### 🚀 About Me
 
-## Stay Connected
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/kabir-hiking/)](https://www.linkedin.com/in/kabir-hiking/)
-[![Instagram](https://img.shields.io/badge/Instagram--purple?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/raihankabir716/)](https://www.instagram.com/raihankabir716/)
-[![Facebook](https://img.shields.io/badge/Facebook--blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/raihan.uap)](https://www.facebook.com/raihan.uap)
-[![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kabirraihn249@gmail.com)](mailto:kabirraihn249@gmail.com)
+I'm a passionate **competitive programmer** and **backend developer** who loves tackling challenging problems and exploring the intricacies of software development. Currently pursuing my journey in Computer Science and Engineering, I enjoy building scalable applications and learning new technologies.
 
-<!--[![](https://img.shields.io/github/stars/cxyfreedom?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=cxyfreedom&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)*\
-[![](https://img.shields.io/github/followers/cxyfreedom?color=27da6b&logo=Handshake)](https://github.com/cxyfreedom?tab=followers)
-[![](https://visitor-badge.laobi.icu/badge?page_id=cxyfreedom.cxyfreedom)](https://visitor-badge.laobi.icu/badge?page_id=cxyfreedom.cxyfreedom)
--->
-## Tools and Technology Stack
+- 🔭 Currently working on **Full-Stack Web Applications**
+- 🌱 Learning **Go** and **AI Engineering**
+- 💡 Interested in **System Design**, **APIs**, and **Performance Optimization**
+- 🏆 **Grand Finalist** at Programming Hero National Hackathon
+- 🎯 **Ranked 15th** at UAP Inter-University Programming Contest
 
-<a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+---
 
+### 🛠️ Tech Stack
 
-<!--<a href="https://obsidian.md/" target="_blank"> <img src="https://obsidian.md/favicon.ico" alt="Obsidian" width="40" height="40"/> </a> <a href="https://www.centos.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
--->
+**Languages:**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+</p>
 
+**Frontend:**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+</p>
 
-<!-- ## Technology Stack
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a>  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a><a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a>  -->
+**Backend & Frameworks:**
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+</p>
 
-## Stats
-<p><img src="https://github-readme-stats.vercel.app/api?username=kabir-hiking&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="kabir-hiking's GitHub Stats" /></p>
+**Databases:**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kabir-hiking&theme=material-palenight&hide_border=false" alt="kabir-hiking's GitHub Streak" /></p>
+**Tools & Technologies:**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
 
-                                                                                                                                                                    <!--
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabir-hiking&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="kabir-hiking's Top Languages" /></p>-->
+---
 
+### 💼 Featured Projects
 
-<!--<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kabir-hiking&theme=default" alt="kabir-hiking's GitHub Stars" /></p>
+#### 🛒 [Full Stack E-Commerce Platform](https://github.com/kabir-hiking)
+- Built with **React** frontend and **FastAPI** backend
+- Implemented **JWT authentication** and role-based permissions
+- Features product dashboards, order management, and analytics
+- **Tech:** React, FastAPI, PostgreSQL, Docker
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=cxyfreedom&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="cxyfreedom" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=cxyfreedom&theme=material-palenight&hide_border=false" alt="cxyfreedom" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxyfreedom&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="cxyfreedom" /></p>
+#### 📱 [RenewTech – Device Refurbishing System](https://github.com/kabir-hiking)
+- Web-based management system using **Django MVT** and **MySQL**
+- Designed optimized CRUD workflows for device inventory
+- Enhanced backend query performance
+- **Tech:** Django, MySQL, Bootstrap
 
-![](https://github-profile-trophy.vercel.app/?username=cxyfreedom&theme=dracula&no-frame=false&no-bg=false&margin-w=4) -->
+#### 💰 [Personal Finance Tracker](https://github.com/kabir-hiking)
+- Modular REST APIs with authentication and validation
+- Containerized backend using **Docker**
+- Transaction management and budget tracking
+- **Tech:** FastAPI, Docker, PostgreSQL
 
-<!--START_SECTION:waka
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C863%20hrs%2027%20mins-blue)
+#### 🤖 [AI Chat Log Summarizer](https://github.com/kabir-hiking)
+- CLI tool for text summarization using **TF-IDF-based NLP**
+- Automated large-scale text processing
+- Modular architecture for extensibility
+- **Tech:** Python, NLP, TF-IDF
 
-**🐱 My GitHub Data** 
+#### 🌐 [Responsive Portfolio Website](https://github.com/kabir-hiking)
+- Fully responsive personal portfolio
+- Mobile-first design with smooth animations
+- Clean UI/UX and optimized performance
+- **Tech:** HTML5, CSS3, JavaScript
 
-> 🏆 3 Contributions in the Year 2024
- > 
-> 📦 68.2 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 55 Public Repositories 
- > 
-> 🔑 3 Private Repositories  
- > 
-**I'm an Early 🐤** 
+---
 
-```text
-🌞 Morning    2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-🌆 Daytime    14 commits     █████████████░░░░░░░░░░░░   53.85% 
-🌃 Evening    10 commits     █████████░░░░░░░░░░░░░░░░   38.46% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+### 📊 GitHub Stats
 
-```
-📅 **I'm Most Productive on Saturday** 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kabir-hiking&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabir-hiking&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+</p>
 
-```text
-Monday       2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-Tuesday      1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.85% 
-Wednesday    5 commits      ████░░░░░░░░░░░░░░░░░░░░░   19.23% 
-Thursday     6 commits      █████░░░░░░░░░░░░░░░░░░░░   23.08% 
-Friday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.85% 
-Saturday     9 commits      ████████░░░░░░░░░░░░░░░░░   34.62% 
-Sunday       2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabir-hiking&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-```
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kabir-hiking&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+</p>
 
+---
 
-📊 **This Week I Spent My Time On** 
+### 🏆 Achievements
 
-```text
-💬 Programming Languages: 
-Python                   16 hrs 4 mins       ████████████████████░░░░░   81.45% 
-Markdown                 1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.24% 
-YAML                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.98% 
-Text                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.55% 
-Bash                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36%
+- 🥇 **Grand Finalist** – Programming Hero National Hackathon
+- 🎯 **Onsite Round Qualifier** – Dhaka Divisional Hackathon 2024
+- 🏅 **Ranked 15th** – UAP Inter-University Programming Contest
+- 💻 **Participant** – ICPC Dhaka Regional Preliminary 2022 & 2023
 
-🔥 Editors: 
-PyCharm                  19 hrs 44 mins      █████████████████████████   100.0%
+---
 
-💻 Operating System: 
-Mac                      19 hrs 44 mins      █████████████████████████   100.0%
+### 🤝 Leadership & Volunteering
 
-```
+- 👨‍🏫 **Mentorship Coordinator** – UAP Programming Contest Club
+- 🌍 **Volunteer** – The 45th Annual ICPC World Finals, Dhaka
 
-**I Mostly Code in Python** 
+---
 
-```text
-Python                   7 repos             █████████████░░░░░░░░░░░░   53.85% 
-HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
-Shell                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+### 📫 Connect With Me
 
-```-->
+<p align="center">
+  <a href="https://www.linkedin.com/in/kabir-hiking/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/kabir-hiking">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:kabirraihn249@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.facebook.com/raihan.uap">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/raihankabir716/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
+---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kabir-hiking&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</p>
 
- 
-<!--END_SECTION:waka   Last Updated on 28/03/2024-->
-
-<!--
-**cxyfreedom/cxyfreedom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+</p>
