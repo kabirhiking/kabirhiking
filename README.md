@@ -51,16 +51,6 @@ Computer Science graduate with expertise in **backend development** and **compet
 
 ---
 
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kabirhiking&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kabirhiking&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kabirhiking&layout=compact&theme=dark&hide_border=true&langs_count=8)
-
----
-
 ## 🏆 Competitive Programming & Achievements
 
 - **Grand Finalist** – Programming Hero National Hackathon
