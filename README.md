@@ -4,7 +4,7 @@
 
 ### Backend Developer | Competitive Programmer | Software Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/kabir-hiking/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/kabirhiking/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/kabirhiking)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:kabirraihn249@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=kabirhiking&color=0077B5&style=flat)
