@@ -2,7 +2,7 @@
 
 # Raihan Kabir
 
-### Backend Developer | Competitive Programmer | Software Engineer
+### Software Engineer | Competitive Programmer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/kabirhiking/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/kabirhiking)
@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-Computer Science graduate with expertise in **backend development** and **competitive programming**. Specialized in building scalable web applications using modern frameworks and solving complex algorithmic problems. Experienced in full-stack development with a strong focus on API design, database optimization, and system architecture.
+Computer Science graduate with expertise in **Full Stack development** and **competitive programming**. Specialized in building scalable web applications using modern frameworks and solving complex algorithmic problems. Experienced in full-stack development with a strong focus on API design, database optimization, and system architecture.
 
 **Current Focus:**
 - 🔹 Expanding expertise in **Go** and **AI Engineering**
