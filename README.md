@@ -31,8 +31,6 @@ Currently exploring distributed systems, Go, and AI-powered backend architecture
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kabirhiking&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirhiking&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
@@ -73,36 +71,6 @@ Currently exploring distributed systems, Go, and AI-powered backend architecture
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 Grand Finalist – Programming Hero National Hackathon  
-- 🏅 Onsite Qualifier – Dhaka Divisional Hackathon 2024  
-- 🏆 15th Place – UAP Inter-University Programming Contest  
-- 💻 ICPC Participant – Dhaka Regional Preliminary (2022, 2023)
-
----
-
-## 💼 Experience
-
-**Software Engineer – TechWorks**  
-→ Building scalable full-stack web applications and backend services
-
-**Mentorship Coordinator – UAP Programming Contest Club**  
-→ Led competitive programming training & mentorship programs
-
-**Volunteer – ICPC World Finals 2024, Dhaka**  
-→ Supported international programming competition operations
-
----
-
-## 🚀 What I Bring
-
-- ✔ Scalable full-stack system design  
-- ✔ Strong algorithmic & problem-solving skills  
-- ✔ Production deployment experience (Docker, Linux)  
-- ✔ API design, optimization, and clean architecture  
-
----
 
 ## 📬 Contact
 
