@@ -2,7 +2,7 @@
 
 # Raihan Kabir
 
-### Software Engineer | Full Stack Focused | Competitive Programmer
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Software+Engineer+at+TechWorks;Full+Stack+Software+Engineer;Competitive+Programmer;System+Design+Enthusiast" />
 
 </div>
 
@@ -10,9 +10,9 @@
 
 ## 👨‍💻 About Me
 
-Backend Software Engineer focused on designing scalable systems and high-performance APIs.  
-Strong problem-solving background from competitive programming with experience in production-grade backend development.  
-Currently exploring distributed systems, Go, and AI-powered backend engineering.
+Full Stack Software Engineer at **TechWorks**, focused on building scalable web applications and high-performance APIs.  
+Strong competitive programming background with practical experience in production-grade systems.  
+Currently exploring distributed systems, Go, and AI-powered backend architectures.
 
 ---
 
@@ -23,7 +23,7 @@ Currently exploring distributed systems, Go, and AI-powered backend engineering.
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:kabirraihn249@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=kabirhiking&color=0077B5&style=flat)
 
-</div> 
+</div>
 
 ---
 
@@ -31,8 +31,8 @@ Currently exploring distributed systems, Go, and AI-powered backend engineering.
 
 <div align="center">
 
-<!-- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kabirhiking&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirhiking&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/> -->
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kabirhiking&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirhiking&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
@@ -59,7 +59,7 @@ Currently exploring distributed systems, Go, and AI-powered backend engineering.
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
-### 🌐 Backend & Web
+### 🌐 Full Stack Development
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -73,7 +73,36 @@ Currently exploring distributed systems, Go, and AI-powered backend engineering.
 
 ---
 
+## 🏆 Achievements
 
+- 🥇 Grand Finalist – Programming Hero National Hackathon  
+- 🏅 Onsite Qualifier – Dhaka Divisional Hackathon 2024  
+- 🏆 15th Place – UAP Inter-University Programming Contest  
+- 💻 ICPC Participant – Dhaka Regional Preliminary (2022, 2023)
+
+---
+
+## 💼 Experience
+
+**Software Engineer – TechWorks**  
+→ Building scalable full-stack web applications and backend services
+
+**Mentorship Coordinator – UAP Programming Contest Club**  
+→ Led competitive programming training & mentorship programs
+
+**Volunteer – ICPC World Finals 2024, Dhaka**  
+→ Supported international programming competition operations
+
+---
+
+## 🚀 What I Bring
+
+- ✔ Scalable full-stack system design  
+- ✔ Strong algorithmic & problem-solving skills  
+- ✔ Production deployment experience (Docker, Linux)  
+- ✔ API design, optimization, and clean architecture  
+
+---
 
 ## 📬 Contact
 
