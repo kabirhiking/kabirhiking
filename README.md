@@ -88,5 +88,5 @@ Currently exploring distributed systems, Go, and AI-powered backend engineering.
 ---
 
 <div align="center">
-  <i>Open to backend engineering roles & impactful projects</i>
+  <i>Open to Full Stack engineering roles & impactful projects</i>
 </div>
