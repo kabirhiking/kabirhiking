@@ -73,35 +73,7 @@ Currently exploring distributed systems, Go, and AI-powered backend engineering.
 
 ---
 
-## 🏆 Achievements
 
-- 🥇 Grand Finalist – Programming Hero National Hackathon  
-- 🏅 Onsite Qualifier – Dhaka Divisional Hackathon 2024  
-- 🏆 15th Place – UAP Inter-University Programming Contest  
-- 💻 ICPC Participant – Dhaka Regional Preliminary (2022, 2023)
-
----
-
-## 💼 Experience
-
-**Mentorship Coordinator**  
-UAP Programming Contest Club  
-→ Led competitive programming mentorship programs and training sessions
-
-**Volunteer**  
-ICPC World Finals 2024, Dhaka  
-→ Contributed to organizing international-level programming competition
-
----
-
-## 🚀 What I Bring
-
-- ✔ Scalable backend system design  
-- ✔ Strong algorithmic & problem-solving skills  
-- ✔ Production deployment experience (Docker, Linux)  
-- ✔ API design, optimization, and clean architecture  
-
----
 
 ## 📬 Contact
 
