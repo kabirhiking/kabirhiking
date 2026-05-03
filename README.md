@@ -2,7 +2,7 @@
 
 # Raihan Kabir
 
-### Software Engineer | Backend-Focused | Competitive Programmer
+### Software Engineer | Full Stack Focused | Competitive Programmer
 
 </div>
 
