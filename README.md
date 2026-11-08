@@ -81,21 +81,14 @@
 
 <div align="center">
 
-  <!-- Interactive 3D Trophy / Achievement showcase -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kabirhiking&theme=matrix&no-bg=true&no-frame=true&margin-w=12&row=1&column=7" width="100%" alt="GitHub Trophies" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Stats Matrix Side-by-Side Cards -->
+  <!-- Stats Matrix Side-by-Side Cards (Powered by reliable fast mirror) -->
   <table border="0" align="center">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=kabirhiking&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true&title_color=00f2fe&icon_color=00f2fe&text_color=ffffff&bg_color=050811" width="410" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=kabirhiking&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true&title_color=00f2fe&icon_color=00f2fe&text_color=ffffff&bg_color=050811" width="410" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirhiking&layout=compact&theme=cyberpunk&hide_border=true&title_color=00f2fe&text_color=ffffff&bg_color=050811" width="370" alt="Top Languages" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=kabirhiking&layout=compact&theme=cyberpunk&hide_border=true&title_color=00f2fe&text_color=ffffff&bg_color=050811" width="370" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -105,17 +98,8 @@
 
   <br/><br/>
 
-  <!-- Interactive Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kabirhiking&theme=matrix&hide_border=true&bg_color=050811" width="98%" alt="Activity Graph" />
-
-  <br/><br/>
-
-  <!-- Snake Contribution Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kabirhiking/kabirhiking/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kabirhiking/kabirhiking/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/kabirhiking/kabirhiking/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <!-- High-reliability Activity Contribution Graph -->
+  <img src="https://ghchart.rshah.org/00f2fe/kabirhiking" width="100%" alt="Kabir's Contribution Graph" />
 
 </div>
 
