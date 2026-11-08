@@ -1,11 +1,12 @@
 <div align="center">
 
-# 👨‍💻 Raihan Kabir
-### **Software Engineer | Full Stack & Backend Architect**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,9,20,30&height=220&section=header&text=Raihan%20Kabir&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%26%20Backend%20Architect&descFontSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Header" />
 
-<a href="https://readme-typing-svg.herokuapp.com">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+TechWorks;Building+Scalable+Microservices+%26+APIs;Distributed+Systems+%26+Cloud-Native+Solutions;Competitive+Programmer+%7C+Problem+Solver" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Software+Engineer+%40+TechWorks;Building+Scalable+Microservices+%26+High-Performance+APIs;Distributed+Systems+%26+Cloud-Native+Engineering;Competitive+Programmer+%7C+Algorithmic+Problem+Solver" alt="Typing SVG" />
 </a>
+
+<br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kabirhiking/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -14,18 +15,23 @@
   <a href="https://github.com/kabirhiking"><img src="https://komarev.com/ghpvc/?username=kabirhiking&color=0077B5&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /></a>
 </p>
 
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
----
+</div>
 
 ## 📌 Executive Summary
 
-I am a results-oriented **Software Engineer** at **TechWorks** specializing in building reliable, fault-tolerant backend services, clean APIs, and modern full-stack web applications. 
+I am a results-driven **Software Engineer** at **TechWorks** focused on building fault-tolerant backend architectures, microservices, and modern web applications. 
 
-- 💼 **Current Focus:** Scalable architectures, microservices, containerization, and distributed workflows.
-- ⚡ **Engineering Principles:** Clean Code, Domain-Driven Design (DDD), CI/CD automation, and high test coverage.
-- 🧠 **Problem Solving:** Passionate competitive programmer with a deep grasp of Data Structures, Algorithms, and System Design.
-- 🔭 **Actively Exploring:** High-concurrency Go architectures, Kafka event streams, and AI/LLM-assisted workflows.
+```yaml
+engineer:
+  name: Raihan Kabir
+  role: Software Engineer
+  company: TechWorks
+  core_focus: [Scalable Backends, Distributed Systems, Clean APIs]
+  principles: [Clean Architecture, Domain-Driven Design (DDD), CI/CD Automation]
+  passions: [Competitive Programming, System Design, Concurrency in Go]
+```
 
 ---
 
@@ -33,7 +39,7 @@ I am a results-oriented **Software Engineer** at **TechWorks** specializing in b
 
 <table>
   <tr>
-    <td width="20%" align="center"><b>Languages</b></td>
+    <td width="22%" align="center"><b>Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
@@ -73,7 +79,7 @@ I am a results-oriented **Software Engineer** at **TechWorks** specializing in b
     </td>
   </tr>
   <tr>
-    <td align="center"><b>DevOps & Tools</b></td>
+    <td align="center"><b>DevOps & Infrastructure</b></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -86,72 +92,10 @@ I am a results-oriented **Software Engineer** at **TechWorks** specializing in b
 
 ---
 
-## 🚀 Featured Engineering Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚌 <a href="https://github.com/kabirhiking/Bus-Ticket-Reservation-System">Bus Ticket Reservation System</a></h3>
-      <p>Enterprise-grade full-stack bus reservation platform engineered with .NET 9 and Angular 18 following <b>Clean Architecture</b> and <b>Domain-Driven Design (DDD)</b> principles.</p>
-      <ul>
-        <li>Interactive seat allocation engine and dynamic boarding route optimizer.</li>
-        <li>Automated xUnit testing suites and comprehensive domain layer validation.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/Angular_18-DD0031?style=flat-square&logo=angular&logoColor=white" />
-        <img src="https://img.shields.io/badge/Clean_Architecture-black?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛒 <a href="https://github.com/kabirhiking/ecommerce-api">Modern E-Commerce Engine</a></h3>
-      <p>High-throughput asynchronous e-commerce platform built on FastAPI with high test reliability and modern client-side interfaces.</p>
-      <ul>
-        <li>Stateful shopping cart, order lifecycles, and RBAC admin governance.</li>
-        <li>Secure authentication via JWT and automated database migration pipelines.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📖 <a href="https://github.com/kabirhiking/AI-Story-Generator">AI Story Generation Backend</a></h3>
-      <p>Scalable microservice backend providing structured APIs to orchestrate AI narrative generation, metadata indexing, and prompt tracking pipelines.</p>
-      <ul>
-        <li>Optimized latency and persistent story generation sessions.</li>
-        <li>Clean REST API endpoints for seamless web and mobile client integration.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI%2FDjango-092E20?style=flat-square&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/GenAI_APIs-orange?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✨ <a href="https://github.com/kabirhiking/neon-hand-vfx">Real-Time Computer Vision VFX</a></h3>
-      <p>Low-latency computer vision application rendering cinematic visual effects in real time from webcam video streams.</p>
-      <ul>
-        <li>Landmark spatial tracking using Google MediaPipe and OpenCV optimizations.</li>
-        <li>Interactive gesture recognition driving dynamic particle shields and energy beams.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/MediaPipe-00C2FF?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📊 Engineering Analytics & Activity
 
 <div align="center">
+
   <table border="0">
     <tr>
       <td>
@@ -165,6 +109,16 @@ I am a results-oriented **Software Engineer** at **TechWorks** specializing in b
 
   <img src="https://streak-stats.demolab.com?user=kabirhiking&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kabirhiking&theme=tokyo-night&hide_border=true" width="95%" alt="Activity Graph" />
+
+  <br/><br/>
+  
+  <!-- Snake contribution animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kabirhiking/kabirhiking/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kabirhiking/kabirhiking/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kabirhiking/kabirhiking/output/github-contribution-grid-snake.svg" />
+  </picture>
+
 </div>
 
 ---
@@ -181,6 +135,6 @@ I am always keen to discuss backend engineering, system architecture, distribute
   <a href="https://github.com/kabirhiking"><img src="https://img.shields.io/badge/GitHub-kabirhiking-181717?style=for-the-badge&logo=github" /></a>
 </p>
 
-<p align="center">
-  <sub>Designed & engineered with clean practices by Raihan Kabir</sub>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,9,20,30&height=120&section=footer" width="100%" alt="Footer" />
+</div>
