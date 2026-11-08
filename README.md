@@ -23,25 +23,22 @@
 
 </div>
 
-## ⚡ Terminal Status
+## 👨‍💻 About Me
 
-```bash
-kabir@workstation:~$ neofetch --backend-engineer
-```
-
-```ini
-  ⚡ Raihan Kabir @ TechWorks
-  ---------------------------
-  OS          : Linux (Kernel-level optimizer)
-  Role        : Full Stack Software Engineer & Backend Architect
-  Focus       : High-Throughput APIs, Distributed Microservices, Event Streams
-  Languages   : Python, Go, C#, TypeScript, JavaScript, C++, Java
-  Frameworks  : FastAPI, Django/DRF, .NET Core 9, React, Angular
-  Storage     : PostgreSQL, Redis, MySQL, SQLite, SQLAlchemy
-  DevOps      : Docker, Linux CLI, Git, GitHub Actions, CI/CD
-  Principles  : Clean Architecture, Domain-Driven Design (DDD), High Test Coverage
-  Mindset     : "Premature optimization is root of evil; unscalable design is fatal."
-```
+<table width="100%">
+  <tr>
+    <td>
+      <p>I am a results-driven <b>Software Engineer</b> at <b>TechWorks</b> specializing in building resilient backend services, high-throughput microservices, and distributed systems.</p>
+      <ul>
+        <li>💼 <b>Current Role:</b> Full Stack Software Engineer @ TechWorks</li>
+        <li>⚡ <b>Core Focus:</b> Scalable APIs, Microservices, Event Streams & Distributed Workflows</li>
+        <li>🧠 <b>Problem Solving:</b> Competitive Programmer with deep foundations in Data Structures, Algorithms & System Design</li>
+        <li>🌱 <b>Exploring:</b> High-concurrency Go architectures, Kafka, and Cloud-Native platforms</li>
+        <li>🎯 <b>Engineering Mindset:</b> Clean Architecture, Domain-Driven Design (DDD), and test automation</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
