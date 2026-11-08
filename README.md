@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Modern High-Contrast Gradient Header (Bright Cyan to Electric Blue) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=220&section=header&text=Raihan%20Kabir&fontSize=46&fontAlignY=36&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Full%20Stack%20%26%20Backend%20Architect&descFontSize=19&descAlignY=58&descColor=ffffff" width="100%" alt="Raihan Kabir Header" />
+<!-- Modern High-Contrast Native Vector Banner (100% reliable, zero external downtime) -->
+<img src="./banner.svg" width="100%" alt="Raihan Kabir Header" />
 
 <!-- High-Contrast Animated Typing Terminal -->
 <a href="https://git.io/typing-svg">
@@ -120,7 +120,7 @@
   <a href="https://github.com/kabirhiking"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<!-- Matching Bottom Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer" width="100%" alt="Footer" />
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="24px" />
 
 </div>
