@@ -31,6 +31,8 @@ Currently exploring distributed systems, Go, and AI-powered backend architecture
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=kabirhiking&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirhiking&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
