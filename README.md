@@ -110,20 +110,6 @@
 
 ---
 
-## 🎧 Currently Vibe Coding & Problem Solving
-
-<div align="center">
-
-```
-  [▶] Raihan Kabir is currently architecting scalable services & solving algorithmic challenges
-      02:45 ━━━━━━━━━━━━━━━━━━━━━━●───── 04:20
-                  ⇆ㅤㅤㅤ◁ㅤㅤ❚❚ㅤㅤ▷ㅤㅤ↻
-```
-
-</div>
-
----
-
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
