@@ -1,24 +1,24 @@
 <div align="center">
 
-<!-- Top Dynamic Header with glowing neon aesthetic -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,18,24,30&height=180&section=header&text=Raihan%20Kabir&fontSize=48&fontAlignY=42&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Distributed%20Systems%20%26%20Backend%20Architect&descFontSize=18&descAlignY=64&descColor=00f2fe&animation=twinkling" width="100%" alt="Raihan Kabir" />
+<!-- Modern High-Contrast Gradient Header (Bright Cyan to Electric Blue) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=220&section=header&text=Raihan%20Kabir&fontSize=46&fontAlignY=36&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Full%20Stack%20%26%20Backend%20Architect&descFontSize=19&descAlignY=58&descColor=ffffff" width="100%" alt="Raihan Kabir Header" />
 
-<!-- Modern Animated Multi-Row Typing Terminal Banner -->
+<!-- High-Contrast Animated Typing Terminal -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=85&lines=%E2%9E%A4+Software+Engineer+%40+TechWorks+%E2%9A%A1;%E2%9E%A4+Architecting+Fault-Tolerant+Microservices+%26+High-Concurrency+APIs;%E2%9E%A4+Distributed+Systems+%7C+Event-Driven+Architectures+%7C+Go+%26+Python;%E2%9E%A4+Competitive+Programmer+%7C+Algorithmic+Problem+Solver+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=85&lines=%E2%9E%A4+Software+Engineer+%40+TechWorks+%E2%9A%A1;%E2%9E%A4+Architecting+Scalable+Microservices+%26+High-Throughput+APIs;%E2%9E%A4+Distributed+Systems+%7C+Event-Driven+Architectures+%7C+Go+%26+Python;%E2%9E%A4+Competitive+Programmer+%7C+Algorithmic+Problem+Solver+%F0%9F%A7%A0" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Modern Flat Social Pill Grid -->
+<!-- Social Connection Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/kabirhiking/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="https://github.com/kabirhiking"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
   <a href="mailto:kabirraihn249@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
-  <a href="https://komarev.com/ghpvc/?username=kabirhiking&color=00f2fe&style=for-the-badge&label=VISITORS"><img src="https://komarev.com/ghpvc/?username=kabirhiking&color=00f2fe&style=for-the-badge&label=VISITORS" alt="Profile Views" /></a>
+  <a href="https://komarev.com/ghpvc/?username=kabirhiking&color=0077B5&style=for-the-badge&label=VISITORS"><img src="https://komarev.com/ghpvc/?username=kabirhiking&color=0077B5&style=for-the-badge&label=VISITORS" alt="Profile Views" /></a>
 </p>
 
-<!-- Glowing Cyberpunk Divider -->
+<!-- Glowing Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="24px" />
 
 </div>
@@ -60,7 +60,7 @@
 
 <br/>
 
-<!-- Fallback standard SVG badges (always 100% visible across all IDEs and Markdown viewers) -->
+<!-- Fallback standard SVG badges (Universal cross-device visibility) -->
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -81,24 +81,24 @@
 
 <div align="center">
 
-  <!-- Stats Matrix Side-by-Side Cards (Powered by reliable fast mirror) -->
+  <!-- Tokyo Night High-Contrast Stats Cards -->
   <table border="0" align="center">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=kabirhiking&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true&title_color=00f2fe&icon_color=00f2fe&text_color=ffffff&bg_color=050811" width="410" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=kabirhiking&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="410" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=kabirhiking&layout=compact&theme=cyberpunk&hide_border=true&title_color=00f2fe&text_color=ffffff&bg_color=050811" width="370" alt="Top Languages" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=kabirhiking&layout=compact&theme=tokyonight&hide_border=true" width="370" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
-  <!-- Streak Stats Card -->
-  <img src="https://streak-stats.demolab.com?user=kabirhiking&theme=cyberpunk&hide_border=true&background=050811&border_radius=8" alt="GitHub Streak" />
+  <!-- Tokyo Night Streak Stats Card with Bright Electric Blue & Cyan text -->
+  <img src="https://streak-stats.demolab.com?user=kabirhiking&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
   <br/><br/>
 
-  <!-- High-reliability Activity Contribution Graph -->
+  <!-- High-Contrast Cyan Activity Graph -->
   <img src="https://ghchart.rshah.org/00f2fe/kabirhiking" width="100%" alt="Kabir's Contribution Graph" />
 
 </div>
@@ -120,7 +120,7 @@
   <a href="https://github.com/kabirhiking"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<!-- Animated Cyberpunk Bottom Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,18,24,30&height=120&section=footer" width="100%" alt="Footer" />
+<!-- Matching Bottom Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>
